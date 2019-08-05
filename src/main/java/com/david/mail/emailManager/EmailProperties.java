@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.example.mail.emailManager;
+package com.david.mail.emailManager;
 
 /**
  * @author David Parra

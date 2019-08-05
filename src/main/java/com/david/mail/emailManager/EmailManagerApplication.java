@@ -1,4 +1,4 @@
-package com.example.mail.emailManager;
+package com.david.mail.emailManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
